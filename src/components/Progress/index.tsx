@@ -15,7 +15,7 @@ function Progress() {
   return (
     <Container id="Progress">
       <Title>Em Andamento</Title>
-      <ContainerGreen>
+      {/* <ContainerGreen>
         <ImageComputerContainer>
           <img
             src={AtendeAi}
@@ -30,7 +30,7 @@ function Progress() {
           </Description>
           <Description>Empresa - AtendeAí</Description>
         </DescriptionContainer>
-      </ContainerGreen>
+      </ContainerGreen> */}
 
       <ContainerGreen>
         <ImageComputerContainer>
